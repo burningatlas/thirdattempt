@@ -7,6 +7,8 @@ show_sidebar: true
 
 This is a demo page showing the sidebar.
 
+And new things can be added here without question.
+
 To show the sidebar set show_sidebar to true in the page's frontmatter.
 
 ```yml
