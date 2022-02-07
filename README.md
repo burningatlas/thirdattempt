@@ -743,3 +743,4 @@ Your theme is set up just like a normal Jekyll site! To test your theme, run `bu
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
 Jan 2022 update check
+feb 2022 update check
